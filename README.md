@@ -19,4 +19,42 @@ baz: 12
 ### Expected ouputs
 10
 
+## Question 4
+### Expected ouputs
+Error.
 
+The bar variable is not a function
+
+## Question 5
+### Expected ouputs
+Good evening
+
+Good morning 
+
+Good morning 
+
+## Question 6
+### Expected ouputs
+foo: 5
+
+foo: 10
+
+
+## Question 7
+### Expected ouputs
+3
+
+
+## Question 8
+### Expected ouputs
+x: undefined
+
+x: bar
+
+## Question 9
+### Expected ouputs
+Second
+
+## Question 10
+### Expected ouputs
+5
